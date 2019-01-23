@@ -24,6 +24,6 @@ sure that corresponding ID and classNames are correct.
 assignment instructions regarding this task.
 
 # Assignment
-1. Add [square root functionality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt)
+1. Add [square root] functionality(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt)
 2. Add [e^x](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/E) functionality
 3. Add [Pi](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/PI) button, circumference, and radius functionality
