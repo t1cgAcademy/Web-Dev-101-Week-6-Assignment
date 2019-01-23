@@ -22,3 +22,8 @@ this assignment, the file has been completely preprogrammed for you.  But rememb
 sure that corresponding ID and classNames are correct.
 6. If you do not remember how to clone and start an application, please refer to past
 assignment instructions regarding this task.
+
+# Assignment
+1. Add [square root functionality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt)
+2. Add [e^x](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/E) functionality
+3. Add [Pi](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/PI) button, circumference, and radius functionality
